@@ -41,5 +41,8 @@
 			</config-file>
 			<source-file src="src/android/Garmin.java" target-dir="src/com/hutchind/cordova/plugins/garmin" />
 			<source-file src="src/android/ParseTypes.java" target-dir="src/com/hutchind/cordova/plugins/garmin" />
+			<source-file src="src/android/Launcher.java" target-dir="src/com/hutchind/cordova/plugins/garmin" />
+			<source-file src="src/android/SyncDataHandler.java" target-dir="src/com/hutchind/cordova/plugins/garmin" />
+			<source-file src="src/android/SyncManager.java" target-dir="src/com/hutchind/cordova/plugins/garmin" />
 	</platform>
 </plugin>
